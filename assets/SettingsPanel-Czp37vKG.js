@@ -1,1 +1,0 @@
-import"./vendor-framer-FJ7_Gymp.js";import{t as e}from"./index-C1bxX63B.js";export{e as default};
